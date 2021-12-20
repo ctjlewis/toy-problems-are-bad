@@ -1,0 +1,41 @@
+[
+  {
+    "name": "New Releases",
+    "videos": [
+      {
+        "title": "The Chamber",
+        "bookmarks": [
+          32432,
+          32300
+        ]
+      },
+      {
+        "title": "Fracture",
+        "bookmarks": [
+          3534543,
+          3534600
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thrillers",
+    "videos": [
+      {
+        "title": "Die Hard",
+        "bookmarks": [
+          983134,
+          983400,
+          983500
+        ]
+      },
+      {
+        "title": "Bad Boys",
+        "bookmarks": [
+          6453454,
+          6453700
+        ]
+      }
+    ]
+  }
+]
