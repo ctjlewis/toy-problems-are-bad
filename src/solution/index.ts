@@ -30,7 +30,6 @@ const output = lists.map(
           }
         }
       );
-
       /**
        * Return the list and the videos it contains along with bookmarks.
        */
